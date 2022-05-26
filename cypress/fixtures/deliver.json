@@ -1,0 +1,50 @@
+{
+  "signup": {
+    "name": "Hellen Alves",
+      "cpf": 10000014141,
+      "email": "teste@hotmail.com",
+      "whatsapp": 61999999999,
+      "address": {
+        "postalcode": "72620-100",
+        "street": "Quadra 300",
+        "number": "150",
+        "details": "Conjunto 55",
+        "district": "Recanto das Emas",
+        "city_state": "Brasília/DF"
+      },
+      "delivery_method": "Moto",
+      "cnh": "cnh-digital.jpg"
+  },
+  "cpf_inv": {
+    "name": "Maria Alves",
+    "cpf": "100000141AF",
+    "email": "teste@hotmail.com",
+    "whatsapp": 61999999999,
+    "address": {
+      "postalcode": "72620-100",
+      "street": "Quadra 300",
+      "number": "150",
+      "details": "Conjunto 55",
+      "district": "Recanto das Emas",
+      "city_state": "Brasília/DF"
+    },
+    "delivery_method": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_inv": {
+    "name": "Hellen Alves",
+      "cpf": 10000014141,
+      "email": "teste.com",
+      "whatsapp": 61999999999,
+      "address": {
+        "postalcode": "72620-100",
+        "street": "Quadra 300",
+        "number": "150",
+        "details": "Conjunto 55",
+        "district": "Recanto das Emas",
+        "city_state": "Brasília/DF"
+      },
+      "delivery_method": "Moto",
+      "cnh": "cnh-digital.jpg"
+    }
+}
